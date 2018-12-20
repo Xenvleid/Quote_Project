@@ -32,6 +32,7 @@ h1 {
     text-align: center;
     text-shadow: 1px 2px gold ;
     color: rgb(164, 224, 189);
+    background-color: rgba(106, 5, 5, 0.3);
 }
 
 .random {

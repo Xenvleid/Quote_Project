@@ -28,10 +28,12 @@ h1 {
     text-align: center;
     text-decoration: none;
     color: rgb(164, 224, 189);
+    background-color: rgba(106, 5, 5, 0.3);
     
 }
 
 footer{
-    font-family: 'Cinzel'; 
-
-}
+    font-family: 'Cinzel';
+    font-size: 3vh;
+    background-color: brown
+  }
